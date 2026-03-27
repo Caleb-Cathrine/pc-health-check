@@ -17,6 +17,7 @@ See [HealthCheck.ps1](HealthCheck.ps1) for the full script.
 
 ![Health Check Output](healthcheck-output.png)
 
+
 ## Skills Demonstrated
 - IT troubleshooting and diagnostics
 - Windows scripting (PowerShell)
