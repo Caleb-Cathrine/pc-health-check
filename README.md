@@ -11,11 +11,11 @@ It runs diagnostics for internet connectivity, disk space, CPU/memory usage, and
 - Startup program listing
 
 ## Script Code
-See [HealthCheck.ps1](HealthCheck.ps1) for the full script.
+See [HealthCheck.ps1](HealthCheck.ps1.) for the full script.
 
 ## Example Output
 
-![Health Check Output](healthcheck-output.png)
+![Health Check Output](healthcheck-output.png.)
 
 
 ## Skills Demonstrated
